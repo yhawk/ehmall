@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item value="com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.genuitec.eclipse.code.ui.codemix.category"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.birt.report.designer.ui.wizard.category"/>
+			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
+		</list>
+	</section>
+</section>

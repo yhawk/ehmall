@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewJspCreationWizardPage">
+		<item value="/manager_web/src/main/webapp" key="filePath"/>
+		<item value="Default JSP template" key="templatezh_CN"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="6" key="index"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

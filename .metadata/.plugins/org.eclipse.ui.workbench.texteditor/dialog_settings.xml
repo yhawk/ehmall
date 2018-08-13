@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="servlet" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="servlet"/>
+			<item value="interfa"/>
+			<item value="pagehelper"/>
+			<item value="my"/>
+			<item value="servlet-api"/>
+			<item value="jstl"/>
+			<item value="&gt;org.apache.tomcat"/>
+			<item value="maven-compiler-plugi"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+</section>

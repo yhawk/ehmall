@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.yan.ehmall</groupId>
+    <artifactId>eh_parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <groupId>com.yan.ehmall</groupId>
+  <artifactId>eh_manager</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <build/>
+  <dependencies>
+   		<dependency>
+       		<groupId>com.yan.ehmall</groupId>
+    		<artifactId>eh_common</artifactId>
+    		<version>0.0.1-SNAPSHOT</version>
+ 		  </dependency>
+  </dependencies>
+  <modules>
+  	<module>manager_pojo</module>
+  	<module>manager_dao</module>
+  	<module>manager_interface</module>
+  	<module>manager_service</module>
+  	<module>manager_web</module>
+  </modules>
+</project>
